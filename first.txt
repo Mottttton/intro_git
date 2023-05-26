@@ -4,4 +4,4 @@ Gitの練習をしていきます。
 .git add
 .git commit
 5/25に勉強再開します。
-5/26
+5/26 git remove
